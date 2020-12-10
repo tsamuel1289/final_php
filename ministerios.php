@@ -1,12 +1,18 @@
-<?php
-include ("includes/nav.php");
-?>
+<?php include ("includes/nav.php"); ?>
 
-<img src="images/paisaje.jpg" class="img-fluid" alt="Responsive image">
+<style>
+h2{
+    color: darkred;
+}
+</style>
 
-<h2>Hola hola ministerios</h2>
+<div style="background-image:url('./images/paisaje.jpg')" >
+<h2 class="p-5"  >Estas dispuesto <br> a que Dios te rete <br> con un Ministerio?</h2>
+</div>
 
+<p class="mx-4">Un ministerio espiritual es el poder, la bendición y la santificación para servir en la Iglesia de Cristo otorgados a través de la ordenación. El ministerio se ejerce bajo el poder del Espíritu Santo.</p>
 
+<p class="mx-4">Te invitamos a poder trabajar para la obra de Cristo</p>
 
 
 
